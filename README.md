@@ -170,7 +170,7 @@ Good generalization on the test set despite minor misclassifications.
 
 Usage
 
-To run the project:
+# To run the project:
 
 
 
@@ -182,7 +182,7 @@ git clone <repository-url>
 
 
 
-Ensure you have the required libraries installed:
+# Ensure you have the required libraries installed:
 
 pip install tensorflow numpy pandas matplotlib seaborn
 
@@ -192,7 +192,7 @@ Open and run the MNIST_project.ipynb notebook in a Jupyter environment (e.g., Ju
 
 
 
-The notebook includes code to:
+# The notebook includes code to:
 
 
 
@@ -212,7 +212,7 @@ Train the model (though training code is not fully shown in the provided documen
 
 Analyze results via a confusion matrix.
 
-Future Improvements
+# Future Improvements
 
 
 
@@ -232,11 +232,11 @@ Experiment with deeper architectures or convolutional neural networks (CNNs) for
 
 Visualize more misclassified examples to understand model weaknesses.
 
-License
+# License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgments
+# Acknowledgments
 
 
 
